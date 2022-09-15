@@ -1,5 +1,7 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+Nama : Glody Syah Rabbynawa 
+NIM  : 21343077
+1. latihan 1(AritmatikaDemo) adalah menambahkan, mengurangi, perkalian, pembagian, menghitung hasil modulus dari pembagian 
+2. latihan 2(relasi demo) adalah berbagai perbandingan variabel
+3.latihan 3,4,5 (Test  NOT,AND, dan OR) adalah sistem demonstrasi dari ketiga buah fungsi tersebut
+4.tugas 1 adalah mendapatkan nilai rata-rata dari 3 variabel
+5. tugas 2 adalah mendapatkan nilai tertinggi dari 3 variabel 
